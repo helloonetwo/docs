@@ -1,4 +1,4 @@
-export const data = JSON.parse("{\"key\":\"v-52a1f3a4\",\"path\":\"/guide/guide/amap-harder.html\",\"title\":\"高德地图进阶\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"自定义弹窗\",\"slug\":\"自定义弹窗\",\"link\":\"#自定义弹窗\",\"children\":[]}],\"git\":{},\"filePathRelative\":\"guide/guide/amap-harder.md\"}")
+export const data = JSON.parse("{\"key\":\"v-52a1f3a4\",\"path\":\"/guide/guide/amap-harder.html\",\"title\":\"高德地图进阶\",\"lang\":\"en-US\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"自定义弹窗\",\"slug\":\"自定义弹窗\",\"link\":\"#自定义弹窗\",\"children\":[]}],\"git\":{\"updatedTime\":1685869087000,\"contributors\":[{\"name\":\"zhang\",\"email\":\"31178293+helloonetwo@users.noreply.github.com\",\"commits\":1}]},\"filePathRelative\":\"guide/guide/amap-harder.md\"}")
 
 if (import.meta.webpackHot) {
   import.meta.webpackHot.accept()

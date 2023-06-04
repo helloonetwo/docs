@@ -1,5 +1,5 @@
-'node_modules' 
-'.temp' 
-'.cache' 
+.temp
+.cache
 package-lock.json
 node_modules
+yarn.lock
